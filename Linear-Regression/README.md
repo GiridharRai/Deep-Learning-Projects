@@ -6,3 +6,6 @@ and their brief description.
 ### 1. Brain Weight Prediction
 In this project, I've made a Linear Regression model using scikit-learn machine learning library to predict the brain weight
 of a mammal from it's body weight.
+
+### 2. Life Expectancy Prediction
+In this project, a linear regression model has been implemented and trained on average life expectancy and mean BMI of males data of various countries. The model will be used to predict the life expectancy of Laos.
